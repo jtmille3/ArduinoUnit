@@ -1,0 +1,1 @@
+This is an Eclipse plugin for JUnit that communicates with an Arduino using serial communication.  In my Arduino example I hook up a strand of G35 lights to the Arduino so I get a bigger and better visual indicator as to how my tests are doing.
