@@ -1,1 +1,7 @@
 This is an Eclipse plugin for JUnit that communicates with an Arduino using serial communication.  In my Arduino example I hook up a strand of G35 lights to the Arduino so I get a bigger and better visual indicator as to how my tests are doing.
+
+You must have the rxtx comm library on your system path 
+  - http://playground.arduino.cc/Interfacing/Java
+
+There is one Arduino library I use.  
+  - https://github.com/sowbug/G35Arduino
