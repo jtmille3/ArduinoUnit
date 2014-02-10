@@ -55,6 +55,7 @@ void serialEvent() // To check if there is any data on the Serial line
       test_count = 0;
       completed_tests = 0;
       failed_tests = 0;
+      lights.fill_color(0, 100, G35::MAX_INTENSITY, COLOR_BLACK);
     }
     else if(val == FINISH)
     {
